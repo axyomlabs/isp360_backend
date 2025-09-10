@@ -7,8 +7,8 @@ const app = express();
 // IMPORTANT: Update these values with your actual database credentials.
 const dbConfig = {
     host: 'localhost',
-    user: 'root', // Your MySQL username
-    password: '', // Your MySQL password
+    user: 'isp_360_@admin', // Your MySQL username
+    password: 'admin@_isp_360', // Your MySQL password
     database: 'isp360_crm', // The name of your database
 };
 
