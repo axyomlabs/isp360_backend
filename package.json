@@ -1,0 +1,24 @@
+{
+  "name": "isp360_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axyomlabs/isp360_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axyomlabs/isp360_backend/issues"
+  },
+  "homepage": "https://github.com/axyomlabs/isp360_backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.5"
+  }
+}
